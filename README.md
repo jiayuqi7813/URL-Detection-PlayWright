@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The translation of your text is: "This is a dynamic phishing URL detection engine based on PlayWright, capable of detection for gophish.
+This is a dynamic phishing URL detection engine based on PlayWright, capable of detection for gophish.
 
 This is a simple Demo.
 ## Installation
